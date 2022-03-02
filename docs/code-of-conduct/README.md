@@ -44,7 +44,7 @@ Logs and Records:
 
 **Please be mindful that things you say here may at some point become public**. We cannot prevent people from screencapping or otherwise logging this server. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-Since we are an industry-focused community, please be mindful about sharing company information or IP, and be respectful of software licences and contract terms. There is definitely a place for sharing code snippets, or patterns and practices, but plase check that you're not sharing anything you shouldn't.
+Since we are an industry-focused community, please be mindful about sharing company information or IP, and be respectful of software licences and contract terms. There is definitely a place for sharing code snippets, or patterns and practices, but please check that you're not sharing anything you shouldn't.
 
 Harassment:
 -----------
