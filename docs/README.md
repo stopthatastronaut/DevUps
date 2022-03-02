@@ -1,6 +1,8 @@
 ### Welcome to DevUps
 
-Hello and welcome! You'll probably want to start with some info on why we exist
+Hello and welcome! This is the companion site for the [DevUps Discord Community](https://discord.gg/sjn6NZtAab)
+
+You'll probably want to start with some info on why we exist, how we work, and what DevUps can do for your career goals
 
 - There's a [code of conduct over here](code-of-conduct/)
 - Here's some [advice on being a mentor](advice-for-mentors/)
