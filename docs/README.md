@@ -1,6 +1,6 @@
 ### Welcome to DevUps
 
-Hello and welcome! This is the companion site for the [DevUps Discord Community](https://discord.gg/sjn6NZtAab)
+Hello and welcome! This is the companion site for the [DevUps Discord Community](https://discord.gg/avQF7NmvdU)
 
 You'll probably want to start with some info on why we exist, how we work, and what DevUps can do for your career goals
 
